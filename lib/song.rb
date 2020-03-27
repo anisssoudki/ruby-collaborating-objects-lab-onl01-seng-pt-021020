@@ -31,7 +31,7 @@ class Song
     new_song.name = song
     
     new_song
-    binding.pry
+    # binding.pry
   end
 
   def self.find_by_artist(artist)
